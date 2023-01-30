@@ -2,6 +2,11 @@ requre('dotenv').config();
 const express = ('express');
 const app = express();
 const cors = require('cors');
+const { connection } = require('mongoose');
+const Connection = require('./db');
+
+// database connection
+connection();
 
 // mmiddlewares
 app.use(express.json());

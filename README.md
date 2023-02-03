@@ -8,16 +8,16 @@ Using React, Node.js, Express & MongoDB am going to implement authentication. Wh
 
 I think you can link directly to the raw version of an image if it's stored in your repository. i.e.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/BrianNyaberi/MERN/blob/main/mern.png?raw=true)
 
 ### Flow
--  Setup Express & MongoDB
--  Create User Model
--  Register Route
--  Login Route
--  Import Routes
--  Create React App
--  Signup Component
--  Login Component
--  Main Component
--  Assign Routes
+[x]  Setup Express & MongoDB
+[x]  Create User Model
+[x]  Register Route
+[x]  Login Route
+[ ]  Import Routes
+[ ]  Create React App
+[ ]  Signup Component
+[ ]  Login Component
+[ ]  Main Component
+[ ]  Assign Routes

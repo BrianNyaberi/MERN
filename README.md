@@ -11,13 +11,13 @@ I think you can link directly to the raw version of an image if it's stored in y
 ![alt text](https://github.com/BrianNyaberi/MERN/blob/main/mern.png?raw=true)
 
 ### Flow
-[x]  Setup Express & MongoDB
-[x]  Create User Model
-[x]  Register Route
-[x]  Login Route
-[ ]  Import Routes
-[ ]  Create React App
-[ ]  Signup Component
-[ ]  Login Component
-[ ]  Main Component
-[ ]  Assign Routes
+- [x]  Setup Express & MongoDB
+- [x]  Create User Model
+- [x]  Register Route
+- [x]  Login Route
+- [ ]  Import Routes
+- [ ]  Create React App
+- [ ]  Signup Component
+- [ ]  Login Component
+- [ ]  Main Component
+- [ ]  Assign Routes

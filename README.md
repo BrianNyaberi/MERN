@@ -1,4 +1,4 @@
-# MERN 
+# MERN (MERN Auth - Signup & Login with Email (JWT) _ React , Node, Express, MongoDB)
 
 MEAN is a free and open-source JavaScript software stack for building dynamic web sites and web applications. A variation known as MERN replaces Angular with React.
 
@@ -15,7 +15,7 @@ I think you can link directly to the raw version of an image if it's stored in y
 - [x]  Create User Model
 - [x]  Register Route
 - [x]  Login Route
-- [ ]  Import Routes
+- [x]  Import Routes
 - [ ]  Create React App
 - [ ]  Signup Component
 - [ ]  Login Component

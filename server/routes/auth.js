@@ -1,3 +1,10 @@
+/**
+ * Created_by: Brian nyaberi
+ * Created_date: 
+ * About: 
+ * Last Modified_by:
+ */
+
 const router = require("express").Router();
 const { User } = require("../models/user");
 const bcrypt = require("bcrypt");

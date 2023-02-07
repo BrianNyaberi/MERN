@@ -1,3 +1,10 @@
+/**
+ * Created_by: Brian nyaberi
+ * Created_date: 
+ * About: 
+ * Last Modified_by:
+ */
+
 const mongoose = require('mongoose');
 const jwt = require('jsonwebtoken');
 const Joi = require('joi');

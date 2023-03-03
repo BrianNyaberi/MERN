@@ -7,9 +7,11 @@ MEAN is a free and open-source JavaScript software stack for building dynamic we
 
 Using React, Node.js, Express & MongoDB am going to implement authentication. Where users can signup and log in to their account with email. I am going to implement authentication with json web token (JWT). Auth is a complex process, and it means allowing users to register and log in. In this repo I am going to learn it thoroughly.
 
+<br/>
+
 ![alt text](https://github.com/BrianNyaberi/MERN/blob/main/mern.png?raw=true)
 
-### Flow
+### Project Flow
 - [x]  Setup Express & MongoDB
 - [x]  Create User Model
 - [x]  Register Route
